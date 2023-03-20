@@ -132,7 +132,7 @@ class SignLanguageGUI(object):
         self.ExitLabel = Label(root, text="Click to exit application:", fg="white", font=("Helvetica",16))
 
         self.InstructionsLabel = Label(root, text="An application that translates videos of danish sign language to text \n Currently supported words:"
-            + str(res) , fg="white", font=("Calibri", 14))
+            + str(words) , fg="white", font=("Calibri", 14))
 
         self.ReturnMenu = Button(root, text="Return to Main Menu", command=self.MainMenu)
 
