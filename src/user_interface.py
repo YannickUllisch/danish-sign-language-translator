@@ -1,10 +1,12 @@
 from tkinter import *
 import cv2
-from PIL import Image, ImageTk
+
 import numpy as np
 import import_ipynb
 # import filedialog module
 from tkinter import filedialog
+from PIL import Image as Img
+from PIL import ImageTk
 
 #import functions
 import DataExtraction
@@ -135,8 +137,13 @@ class SignLanguageGUI(object):
             + str(words) , fg="white", font=("Calibri", 14))
 
         self.ReturnMenu = Button(root, text="Return to Main Menu", command=self.MainMenu)
-
+        self.label_widget = Label(root)
+        self.label_widget.grid()
         self.MainMenu()
+        cam_on = False
+        cap = None
+
+        
 
     def MainMenu(self):
         self.RemoveAll()
@@ -150,12 +157,36 @@ class SignLanguageGUI(object):
         self.GetVideoButton.grid(row=2, column=2, padx=(0,20), sticky="w")
         
         self.ExitButton.grid(pady=(100,20), padx=20, column=1, sticky="s")
-        
+ 
+    
 
     def WebcamFeed(self):
-        self.WebcamButton.grid_remove()
-        self.WebcamLabel.grid_remove()
-        self.ExitButton.grid_remove()
+        
+        self.RemoveAll()
+        
+        label =Label(root)
+        label.grid(row=0, column=0)
+        cap= cv2.VideoCapture(0)
+
+        # Define function to show frame
+        def show_frames():
+            # Get the latest frame and convert into Image
+            cv2image= cv2.cvtColor(cap.read()[1],cv2.COLOR_BGR2RGB)
+            img = Img.fromarray(cv2image)
+            # Convert image to PhotoImage
+            imgtk = ImageTk.PhotoImage(image = img)
+            label.imgtk = imgtk
+            label.configure(image=imgtk)
+            # Repeat after an interval to capture continiously
+            label.after(20, show_frames)
+
+        show_frames()
+        self.ReturnWebcamMenu = Button(root, text="Return to Main Menu", command=lambda:[cv2.waitKey(10), cap.release(), cv2.destroyAllWindows(), self.MainMenu])
+        self.ReturnWebcamMenu.grid(row=2)
+
+
+    
+ 
 
     def LocalVideoPrediction(self):
         filename = filedialog.askopenfilename(initialdir = "/",
