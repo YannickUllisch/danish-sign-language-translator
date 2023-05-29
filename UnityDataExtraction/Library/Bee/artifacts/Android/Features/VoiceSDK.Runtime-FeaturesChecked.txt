@@ -1,0 +1,2 @@
+UnityEngine.Network
+UnityEngine.Application::get_internetReachability

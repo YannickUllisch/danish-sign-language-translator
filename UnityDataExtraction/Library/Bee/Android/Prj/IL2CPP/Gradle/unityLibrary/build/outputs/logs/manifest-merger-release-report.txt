@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:101-129
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-100
+application
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-26:17
+	android:extractNativeLibs
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:109-141
+	android:label
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+	android:icon
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:49-80
+	android:allowBackup
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:81-108
+	android:networkSecurityConfig
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:142-197
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-12:16
+	android:screenOrientation
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:168-205
+	android:excludeFromRecents
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:134-167
+	android:launchMode
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:206-237
+	android:hardwareAccelerated
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:383-418
+	android:resizeableActivity
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:348-382
+	android:configChanges
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:238-347
+	android:theme
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-79
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:80-133
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-9:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+category#com.oculus.intent.category.VR
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:9-66
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:19-63
+meta-data#android.notch_support
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-78
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:55-75
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-54
+meta-data#com.oculus.vr.focusaware
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:7-81
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:58-78
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:18-57
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-89
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:65-86
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-64
+meta-data#com.samsung.android.vr.application.mode
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-97
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:71-94
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-70
+meta-data#unity.splash-mode
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-78
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:55-75
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:60-81
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-59
+meta-data#notch.config
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-81
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:44-78
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-84
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:61-81
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-60
+meta-data#com.oculus.handtracking.frequency
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-87
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:65-84
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:16-64
+meta-data#com.unity.xr.oculus.LowOverheadMode
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:5-91
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:67-88
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:16-66
+meta-data#com.unity.xr.oculus.LateLatching
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-88
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:64-85
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:16-63
+meta-data#com.unity.xr.oculus.LateLatchingDebug
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:5-93
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:69-90
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:16-68
+meta-data#com.oculus.supportedDevices
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:5-90
+	android:value
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:59-87
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:16-58
+uses-feature#android.hardware.vr.headtracking
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-111
+	android:version
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:65-84
+	android:required
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:85-108
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:17-64
+uses-feature#0x00030000
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-52
+	android:glEsVersion
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:17-49
+supports-gl-texture#GL_KHR_texture_compression_astc_ldr
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-77
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:24-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-65
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-77
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:20-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-69
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:20-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-78
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:20-75
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-87
+	android:required
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:60-84
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:17-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:3-79
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:20-76
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:3-88
+	android:required
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:61-85
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:3-99
+	android:required
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:72-96
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:37:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:3-108
+	android:required
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:81-105
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:38:17-80
+uses-feature#oculus.software.handtracking
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:3-87
+	android:required
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:61-84
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:39:17-60
+uses-permission#com.oculus.permission.HAND_TRACKING
+ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:3-73
+	android:name
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:40:20-70
+uses-sdk
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aprx\DataExtraction\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml

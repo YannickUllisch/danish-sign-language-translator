@@ -1,0 +1,38 @@
+Using template 'Assets/Plugins/Android\AndroidManifest.xml'
+
+supports-gl-texture elements added because:
+	TextureSupport was not set to generic
+android.permission.INTERNET was added because:
+	UnityEngine.Networking was present in:
+		Meta.WitAi-FeaturesChecked.txt
+		Meta.WitAi.Lib-FeaturesChecked.txt
+		Unity.InputSystem-FeaturesChecked.txt
+	System.Net.Sockets was present in:
+		Oculus.VR-FeaturesChecked.txt
+	UnityEngine.Network was present in:
+		Meta.WitAi-FeaturesChecked.txt
+		Meta.WitAi.Lib-FeaturesChecked.txt
+		Unity.InputSystem-FeaturesChecked.txt
+		VoiceSDK.Runtime-FeaturesChecked.txt
+	UnityEngine.Networking.UnityWebRequest was present in:
+		Meta.WitAi-FeaturesChecked.txt
+		Meta.WitAi.Lib-FeaturesChecked.txt
+android.permission.ACCESS_NETWORK_STATE was added because:
+	UnityEngine.Application::get_internetReachability was present in:
+		VoiceSDK.Runtime-FeaturesChecked.txt
+android.permission.RECORD_AUDIO, android.permission.MODIFY_AUDIO_SETTINGS, android.permission.BLUETOOTH, android.hardware.microphone were added because:
+	UnityEngine.Microphone was present in:
+		Meta.VoiceSDK.Mic.Common-FeaturesChecked.txt
+		Meta.VoiceSDK.Mic.Other-FeaturesChecked.txt
+		Oculus.LipSync-FeaturesChecked.txt
+android.permission.WRITE_EXTERNAL_STORAGE was added because:
+	Force SDCard Permission
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		Unity.XR.Interaction.Toolkit-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		Unity.XR.Interaction.Toolkit-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt
