@@ -1,4 +1,13 @@
 # Danish Sign Language Translation
+## Overview
+This project aims to translate Danish Sign Language into text by analyzing video data. We explore and compare the effectiveness of different data extraction techniques, specifically MediaPipe and Unity-VR, and various machine learning models to determine the most accurate setup for sign language translation.
 
-In this project we analyse and compare different data extraction techniques, specifically MediaPipe and Unity-VR using the Meta Quest 2 device, and machine learning models to discover which setup can provide the best accuracy for translating a subset of 9 signs from danish sign language to text tokens. 
-The models include a Recurrent Neural Network (RNN) e.g. a Long short-term memory (LSTM) for both a Virtual Reality based data extraction, as well as the method applying the MediaPipe framework. For additional comparison between methods, both kNN and Random forest classification algorithms as well as principal component analysis (PCA) were applied.
+## Key Features
+- Data Extraction: Utilizes MediaPipe and Unity-VR for landmark representation from video data.
+- Machine Learning Models: Employs models including k-nearest neighbors, Random Forest, and neural networks (RNNs and LSTMs) for sign language translation.
+- Data Smoothing: Applies low-pass filters and interpolation for data preprocessing.
+- Dimensionality Reduction: Utilizes PCA and UMAP for efficient data analysis.
+
+
+## Dataset
+The dataset comprises professional-grade videos collected from tegnsprog.dk and matcen.dk, along with additional videos recorded to cover a subset of 9 signs from Danish Sign Language.
